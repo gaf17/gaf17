@@ -1,4 +1,5 @@
 Extremely comfortable with Python; Familiar with MATLAB, C++; Worked previously with Unity, SAS, OpenACC, Cuda, MPI
+
 (^ipynb, numpy, scipy, pandas)
 
 Studied scientific computing, advanced continuous and discrete algorithms, linear algebra, NLP, AI, HPC, 3D printing
