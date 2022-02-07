@@ -7,4 +7,5 @@ Worked on CreatorConnect and CovidCentral at the Innovation Hub
 Hosted workshops on beginner Python and 3D Printing
 
 Looking for a position where I can show off these skills
+
 Contact: genaferguson99@gmail.com
