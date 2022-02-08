@@ -1,6 +1,6 @@
 Extremely comfortable with Python (ipynb, numpy, scipy, pandas); Familiar with MATLAB, C++; Worked previously with Unity, SAS, OpenACC, Cuda, MPI, VisIt.
 
-Studied scientific computing, advanced continuous and discrete algorithms, linear algebra, NLP, AI, HPC, 3D printing, VR.
+Studied Scientific Computing, Advanced Continuous and Discrete Algorithms, Linear Algebra, NLP, AI, HPC, 3D Printing, VR.
 
 Worked on CreatorConnect and CovidCentral at the Innovation Hub.
 
