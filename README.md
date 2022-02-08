@@ -2,7 +2,7 @@ Extremely comfortable with Python (ipynb, numpy, scipy, pandas); Familiar with M
 
 Studied Scientific Computing, Advanced Continuous and Discrete Algorithms, Linear Algebra, NLP, AI, HPC, 3D Printing, VR.
 
-Worked on CreatorConnect and CovidCentral at the Innovation Hub.
+Worked on CreatorConnect and CovidCentral at Florida State University's Innovation Hub.
 
 Hosted workshops on beginner Python and 3D Printing.
 
